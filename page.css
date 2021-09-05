@@ -1,0 +1,14 @@
+body{
+    background-color: goldenrod;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+h2{
+    color: rgb(10, 122, 10);
+    font-weight: bold;
+}
